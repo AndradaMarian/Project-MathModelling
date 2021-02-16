@@ -19,3 +19,6 @@ An overview of the project is presented in the "ReversedGameOfLife_ResultsAnalys
 
 ### Project Presentation
 For the presentation a powerpoint file was created "Presentation_Game_of_life.pptx"
+
+### Project Demo
+The "Demo.rar" archive contains a video of the running project showing a plot with the evolution of the board.
